@@ -15,5 +15,5 @@
 <img src="https://raw.githubusercontent.com/danhobaklab/greeter/master/images/greeter-02.png"><br>
 <h5>State 2. Response</h5>
 <img src="https://raw.githubusercontent.com/danhobaklab/greeter/master/images/greeter-03.png"><br>
-<h5>State 3. Question & State 4. Answer</h5>
+<h5>State 3. Question / State 4. Answer</h5>
 <img src="https://raw.githubusercontent.com/danhobaklab/greeter/master/images/greeter-04.png"><br>
