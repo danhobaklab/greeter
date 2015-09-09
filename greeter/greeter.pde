@@ -1,11 +1,22 @@
+/*
 
-import KinectPV2.KJoint;
+greeter by Dahye Park
+http://www.dahyepark.com/
+
+Gesture-based Interactive Greeter for a Department Device Checkout
+
+*/
+
 import KinectPV2.*;
-
 KinectPV2 kinect;
-
 Skeleton [] skeleton;
 
+/*
+
+Thanks to Thomas Sanchez Lengeling for KinectPV2 Library
+http://codigogenerativo.com/
+
+*/
 
 int greeter_num = 8;
 int question_num = 3;
