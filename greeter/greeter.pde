@@ -14,7 +14,7 @@ Skeleton [] skeleton;
 /*
 
 Thanks to Thomas Sanchez Lengeling for KinectPV2 Library
-http://codigogenerativo.com/
+https://github.com/ThomasLengeling/KinectPV2
 
 */
 
