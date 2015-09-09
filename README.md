@@ -9,3 +9,11 @@
 <p>Below shows how the greeter works. At first. the greeter waits for the visitor and shows random hello message or information message to attract visitors. When a visitor stands in front of the screen, the greeter greets the visitor and asks friendly questions like ‘How’s it going?’ After the visitor responses to the greeter’s question and the greeter also responses to him, it asks whether he wants to checkout. When the visitor replies that question, then the greeter shows information based on his answer.</p>
 <img src="https://raw.githubusercontent.com/danhobaklab/greeter/master/images/greeter-algorithm.png"><br>
 <p>And here are screen samples that the greeter shows to visitors.</p>
+<h5>State 0. Waiting</h5>
+<img src="https://raw.githubusercontent.com/danhobaklab/greeter/master/images/greeter-01.png"><br>
+<h5>State 1. Greeting</h5>
+<img src="https://raw.githubusercontent.com/danhobaklab/greeter/master/images/greeter-02.png"><br>
+<h5>State 2. Response</h5>
+<img src="https://raw.githubusercontent.com/danhobaklab/greeter/master/images/greeter-03.png"><br>
+<h5>State 3. Question & State 4. Answer</h5>
+<img src="https://raw.githubusercontent.com/danhobaklab/greeter/master/images/greeter-04.png"><br>
