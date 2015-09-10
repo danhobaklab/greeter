@@ -288,7 +288,7 @@ void raiseLeftHandRecognizer(KJoint[] joints)
 
       } else if (frameCount >= (startFrame_left + 30))
       {
-        println("Recognition canceled");
+        println("Recognition cancelled");
         raiseLeftHandRecognitionStarted = false;
       }
     }
