@@ -18,3 +18,12 @@
 <img src="https://raw.githubusercontent.com/danhobaklab/greeter/master/images/greeter-03.png"><br>
 <h5>State 3. Question / State 4. Answer</h5>
 <img src="https://raw.githubusercontent.com/danhobaklab/greeter/master/images/greeter-04.png"><br>
+<h3>User Interaction</h3>
+<img src="https://raw.githubusercontent.com/danhobaklab/greeter/master/images/interaction_detect.jpg"><br>
+<p>The greeter detects a user.</p>
+<img src="https://raw.githubusercontent.com/danhobaklab/greeter/master/images/interaction_two_hands.jpg"><br>
+<p>The user are raising two hands to respond the greeter’s welcome message.</p>
+<img src="https://raw.githubusercontent.com/danhobaklab/greeter/master/images/interaction_right_hand.jpg"><br>
+<p>The user are raising her right hand to accept the greeter’s suggestion.</p>
+<img src="https://raw.githubusercontent.com/danhobaklab/greeter/master/images/interaction_left_hand.jpg"><br>
+<p>The user are raising her left hand to decline the greeter’s suggestion.</p>
